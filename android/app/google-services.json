@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947604749818",
+    "project_id": "smc1-e200d",
+    "storage_bucket": "smc1-e200d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947604749818:android:72b43ee8449461cf103843",
+        "android_client_info": {
+          "package_name": "com.example.smc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "current_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
